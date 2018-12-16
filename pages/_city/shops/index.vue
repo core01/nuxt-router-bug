@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>CITY SHOPS INDEX</h1>
-    <h2>URL SHOULD BE {{ currentCity.alias }}/sales</h2>
+    <h2>URL SHOULD BE {{ currentCity.alias }}/shops</h2>
 
   </div>
 </template>
